@@ -1,6 +1,6 @@
 Air pollution is a serious worldwide problem that affects ecosystems, human health,
 and the environment. As pollutant levels rise, precise predicted solutions are needed.
-The goal of this research is to create a machine learning framework that uses
+The goal of this project is to create a machine learning framework that uses
 atmospheric and pollutants data to forecast air quality levels. Several feature selection
 methods, such as Forward Selection, Backward Selection, and Correlation Analysis,
 were used to assess models including Logistic Regression, Decision Tree, Random
